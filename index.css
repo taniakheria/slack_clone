@@ -1,0 +1,160 @@
+.purple{
+    background-color: #541554;
+    width: 100%;
+    height: 550px;   
+}
+.navTitle a{
+    color: white !important;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-weight: 700 !important;
+    font-size: .9375rem !important;
+}
+ .slack a{
+    font-size: 1.5rem !important;
+    font-weight: 700 !important;
+    color: white !important;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+}
+
+.slack img{
+    height: 40px !important;
+    width: 40px !important;
+    margin-top: -7px !important;
+    margin-right: -5px !important;
+}
+
+.navbar-brand svg{
+    height: 50px;
+    width: 25px;
+    margin-top: -10px;
+    margin-right: -20px !important;
+}
+
+
+.btnFree{
+    color:#541554 !important;
+    border-radius: 4px !important;
+    text-align: center !important;
+    font-size: 0.875rem !important;
+    text-align: center;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-weight: 700 !important;
+    line-height: 1.2857 !important;
+    letter-spacing: .8px !important;
+    padding: 12px 12px !important;
+}
+.btnSales{
+    border-radius: 4px !important;
+    text-align: center !important;
+    font-size: 0.875rem !important;
+    text-align: center !important;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-weight: 700 !important;
+    line-height: 1.2857 !important;
+    letter-spacing: .8px !important;
+    padding: 12px 12px !important;
+}
+
+.btnFree:hover{
+   background-color:white !important;
+   color:#541554 !important;
+   border: 2px solid #541554;
+   
+}
+
+ .btnSales:hover{
+   background-color:#541554 !important;
+   color: white !important;
+   /* border: 2px solid white !important; */
+}
+.content {
+    /* border: 2px solid white !important; */
+    height: 450px !important;
+    width: 100%;
+}
+
+.left {
+    /* border: 8px solid red !important; */
+    width: 60%;
+    margin-top: 40px;
+}
+
+.header{
+    font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif !important;
+    font-weight: 700;
+    line-height: 1.0600 !important;
+    letter-spacing: -1.5px !important;
+    font-size: 4rem;
+}
+
+.purple p{
+    color: white;
+}
+
+.details{
+    font-size: 1.25rem !important;
+    line-height: 1.333;
+    letter-spacing: -.2px;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-weight: 400;
+}
+
+.btnEmail, .btnGoogle{
+    padding: 10px 8px !important;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-weight: 620 !important;
+    border-radius: 4px !important;
+    text-align: center !important;
+    font-size: .875rem !important;
+    line-height: 1.2857 !important;
+    letter-spacing: .8px !important;
+    height: 60px;
+    width: 250px;
+}
+.btnEmail{
+    color: #541554 !important;
+    width: 300px;
+}
+
+.btnGoogle span{
+    margin-left: 8px !important;
+}
+
+.btn svg{
+    height: 50px;
+    width: 50px;
+    text-align: center  !important;
+    margin-left: -12px !important;
+    margin-top: -6px !important;
+    margin-bottom: -6px !important;
+    font-size: 0.875rem !important;
+    /* text-align:start !important; */
+}
+
+.right img{
+    height: 400px;
+    width: 700px;
+    margin-right: -100px !important;
+    margin-top: 20px;
+}
+
+.footer{
+    padding: 40px 20px;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-weight: 550 !important;
+    border-radius: 4px !important;
+    text-align: center !important;
+    font-size: .875rem !important;
+    line-height: 1.125 !important;
+    letter-spacing: .8px !important;
+
+}
+
+.logos{
+    padding: 10px 10px;
+    justify-content: center !important;
+}
+
+.logo{
+    margin: 8px 30px;
+}
